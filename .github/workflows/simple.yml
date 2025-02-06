@@ -1,5 +1,5 @@
 name: simple.yml
-on: [push, pull]
+on: [push]
 
 jobs:
   run-shell-command:
